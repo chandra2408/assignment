@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements OnItemSelected{
     ProgressDialog dialog;
     List<DataManager> dataLists;
     DetailsItemsListAdapter adapter;
-	DetailsItemsListAdapter abcadapter;
+	DetailsItemsListAdapter hijadapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
