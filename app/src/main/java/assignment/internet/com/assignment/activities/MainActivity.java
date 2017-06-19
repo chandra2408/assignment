@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity implements OnItemSelected{
     List<DataManager> dataLists;
     DetailsItemsListAdapter adapter;
 	DetailsItemsListAdapter adapter;
-	DetailsItemsListAdapter abcadapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
